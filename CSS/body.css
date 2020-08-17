@@ -1,0 +1,31 @@
+body{
+    font-family: var(--font-one);
+}
+
+.engineer-container{
+    background: var(--blue);
+}
+
+.dev-container{
+    background: var(--indigo);
+}
+
+.i-size{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1rem;
+    padding-bottom: 6rem;
+}
+
+.leader-container{
+    background: var(--purple);
+}
+
+.container{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: white;
+    text-align: center;
+}

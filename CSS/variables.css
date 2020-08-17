@@ -1,0 +1,11 @@
+:root {
+    --pink: #FF6AD5;
+    --orange: #f98500;
+    --purple: #C774E8;
+    --indigo: #AD8CFF;
+    --blue: #8795E8;
+    --lightblue: #94D0FF;
+
+    --font-one: 'Roboto Mono', monospace;
+    --font-two: 'Open Sans', sans-serif;
+}

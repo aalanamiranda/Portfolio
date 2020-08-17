@@ -1,0 +1,15 @@
+#nav-content{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.ml-auto{
+    margin-left: auto;
+    list-style-type: none;
+    padding-top: 1.60rem;
+}
+
+.ml-auto li{
+    display: inline;
+}
